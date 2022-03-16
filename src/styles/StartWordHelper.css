@@ -1,0 +1,14 @@
+.current-words {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.current-words .current-word {
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: row;
+  margin: 1em;
+  padding: 1em;
+}
