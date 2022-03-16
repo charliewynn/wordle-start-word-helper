@@ -1,0 +1,1 @@
+# wordle-start-word-helper
